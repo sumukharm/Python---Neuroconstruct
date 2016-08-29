@@ -1,5 +1,5 @@
 # Python---Neuroconstruct
-ab
+
 Visualising 3D regions with arbitrary cross section
 
 We have added a new functionality in neuroconstruct that helps in visualising 3D regions (neurons) through arbitrary cross sectional images.
