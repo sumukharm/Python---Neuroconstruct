@@ -17,7 +17,7 @@ Files containing GUI changes/addition :
  - RegionTypeHelper.java provides utility to create a new instance of arbitraryregion whose parameters are taken from ArbitraryRegion.java
 
 
-Files containing visualisation code : lines.py, better_plot.py
+Files containing visualisation code : lines.py, better_plot.py.
 This is integrated with neuroconstruct's frontend API through  /neuroConstruct/src/ucl/physiol/neuroconstruct/gui/MainFrame.java 
 
 
