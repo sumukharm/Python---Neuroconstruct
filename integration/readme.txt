@@ -2,7 +2,7 @@
 
 Visualising 3D regions with arbitrary cross section, on neuroconstruct.
 
-We have added a new functionality in neuroconstruct that helps in visualising 3D regions (neurons) through arbitrary cross sectional images.
+Adding a new functionality in neuroconstruct that helps in visualising 3D regions (neurons) through arbitrary cross sectional images.
 
 Requirements to run this demo:
 
